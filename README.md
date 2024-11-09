@@ -27,4 +27,3 @@ Stack Overflow. (2015, March 18). Word Scramble Game. https://stackoverflow.com/
 **Videos** 
 
 Codemy.com. (2020, June 18). Word Jumble Game – Python Tkinter GUI Tutorial #83. [Video]. YouTube. https://www.youtube.com/watch?v=X5k_Uag6DVA 
-![image](https://github.com/user-attachments/assets/8fd7fe54-666e-4bb1-b012-d41c2d0681d7)
